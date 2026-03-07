@@ -255,8 +255,8 @@ mysql -u username -p database_name -e "SELECT * FROM table"
 ## ผู้พัฒนา
 
 - [Developer Name] - Full Stack Developer
-- [Email] - developer@example.com
-- [GitHub] - https://github.com/username/borrowing-system
+- [Email] - sittipong.pu@gmail.com
+- [GitHub] - https://github.com/sirmommam/borrowing-system
 
 ## ประวัติอัปเดต
 
